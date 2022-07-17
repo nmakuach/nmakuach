@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Nyadual
 #### I'm a crime and data analysis enthusiast
 
-![I'm a crime and data analysis enthusiast](https://twitter.com/nyadual/header_photo)
+![I'm a crime and data analysis enthusiast](https://github.com/nmakuach/nmakuach/blob/main/Banner.png)
 
 
 I'm currently a fourth-year student at the University of Guelph studying Criminal Justice and Policy & Computer Science.
