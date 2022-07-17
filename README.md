@@ -6,7 +6,8 @@
 
 I'm currently a fourth-year student at the University of Guelph studying Criminal Justice and Policy & Computer Science.
 I'm passionate about helping people solve problems using data, especially in the Justice system.
-I believe data analysis can be used in predictive Policing to come up with better preventive measures against crime
+I believe data analysis can be used in predictive Policing to come up with better preventive measures against crime.
+
 I enjoy working with Spreadsheets, Virtualizing data, SQL, R, C, Java, Javascript, HTML, and CSS. I also like wireframing and design.
 
 
