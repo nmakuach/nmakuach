@@ -11,11 +11,11 @@ I enjoy working with Spreadsheets, Virtualizing data, SQL, R, C, Java, Javascrip
 
 
 Skills and Experience
-
 📉.Spreadsheets
 📊.Data Virtualization
 〄.Data Cleaning
 👩🏾‍💻.SQL, R, C, Java, Javascript, HTML, CSS
+
 
 - 🌱 I’m currently learning Python Langauge 
 - 📫 How to reach me: nyadualm@gmail.com 
