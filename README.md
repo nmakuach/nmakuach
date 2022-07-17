@@ -10,7 +10,12 @@ I believe data analysis can be used in predictive Policing to come up with bette
 I enjoy working with Spreadsheets, Virtualizing data, SQL, R, C, Java, Javascript, HTML, and CSS. I also like wireframing and design.
 
 
-Skills: Spreadsheets, Data Virtualization, Data Cleaning, SQL, R, C, Java, Javascript, HTML, CSS
+Skills and Experience
+
+📉.Spreadsheets
+📊.Data Virtualization
+〄.Data Cleaning
+👩🏾‍💻.SQL, R, C, Java, Javascript, HTML, CSS
 
 - 🌱 I’m currently learning Python Langauge 
 - 📫 How to reach me: nyadualm@gmail.com 
@@ -19,7 +24,6 @@ Skills: Spreadsheets, Data Virtualization, Data Cleaning, SQL, R, C, Java, Javas
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nmakuach)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nyadual/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nydual/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nyadual)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/nyadual)  
-
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmakuach)](https://github.com/anuraghazra/github-readme-stats)
