@@ -1,7 +1,7 @@
 
 ![I'm a crime and data analysis enthusiast](https://github.com/nmakuach/nmakuach/blob/main/Banner.png)
 
-### Hi there 👋, My name is Nyadual
+### Hi there 👋🏾😊, My name is Nyadual
 
 I'm currently a fourth-year student at the University of Guelph studying Criminal Justice and Policy & Computer Science.
 I'm passionate about helping people solve problems using data, especially in the Justice system.
@@ -11,10 +11,10 @@ I enjoy working with Spreadsheets, Virtualizing data, SQL, R, C, Java, Javascrip
 
 ## Skills and Experience
 
-📉.Spreadsheets
-📊.Data Virtualization
-〄.Data Cleaning
-👩🏾‍💻.SQL, R, C, Java, Javascript, HTML, CSS
+📉Spreadsheets
+📊Data Virtualization
+〄Data Cleaning
+👩🏾‍💻SQL, R, C, Java, Javascript, HTML, CSS
 
 
 - 🌱 I’m currently learning Python Langauge 
