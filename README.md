@@ -18,7 +18,6 @@ I enjoy working with Spreadsheets, Virtualizing data, SQL, R, C, Java, Javascrip
 
 
 - 🌱 I’m currently learning Python Langauge 
-- 📫 How to reach me: nyadualm@gmail.com 
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I speak four languages😊 
 
